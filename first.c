@@ -5,6 +5,8 @@ c=a*b;
 d=a-b;
  e=a+b;
  g=a%b;
+
+ printf("darshan");
 print(c);
 print(d);
  return 0;}
